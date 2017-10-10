@@ -9,11 +9,11 @@ Remote calculator
 - Run APP/server.bin
 - Run APP/cliente.bin
 
-  COMANDS (Just to client)
-        $num1,$num2,sum
-        $num1,$num2,sub
-        $num1,$num2,mul
-        $num1,$num2,div
+  ### COMANDS (Just to client)
+  - $num1,$num2,sum
+  - $num1,$num2,sub
+  - $num1,$num2,mul
+  - $num1,$num2,div
 
 ## Components
 - Sensor IR
